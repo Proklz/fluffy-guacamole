@@ -1,0 +1,163 @@
+2026-06-13 15:27:14,911 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\amazon_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:14,949 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\apple_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:14,986 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\google_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:15,022 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\meta_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:15,056 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\microsoft_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:15,091 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\nvidia_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:15,127 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\tesla_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:27:15,314 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\amazon_financial_data.csv: 622 rows, 168 skipped
+2026-06-13 15:27:15,502 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\apple_financial_data.csv: 609 rows, 196 skipped
+2026-06-13 15:27:15,721 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\google_financial_data.csv: 678 rows, 207 skipped
+2026-06-13 15:27:15,925 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\meta_financial_data.csv: 664 rows, 211 skipped
+2026-06-13 15:27:16,144 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\microsoft_financial_data.csv: 731 rows, 189 skipped
+2026-06-13 15:27:16,343 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\nvidia_financial_data.csv: 694 rows, 201 skipped
+2026-06-13 15:27:16,547 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\tesla_financial_data.csv: 722 rows, 218 skipped
+2026-06-13 15:35:14,645 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\amazon_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:14,684 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\apple_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:14,725 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\google_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:14,765 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\meta_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:14,808 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\microsoft_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:14,854 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\nvidia_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:14,896 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\tesla_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 15:35:15,080 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\amazon_financial_data.csv: 622 rows, 168 skipped
+2026-06-13 15:35:15,267 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\apple_financial_data.csv: 609 rows, 196 skipped
+2026-06-13 15:35:15,483 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\google_financial_data.csv: 678 rows, 207 skipped
+2026-06-13 15:35:15,685 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\meta_financial_data.csv: 664 rows, 211 skipped
+2026-06-13 15:35:15,897 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\microsoft_financial_data.csv: 731 rows, 189 skipped
+2026-06-13 15:35:16,104 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\nvidia_financial_data.csv: 694 rows, 201 skipped
+2026-06-13 15:35:16,311 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\tesla_financial_data.csv: 722 rows, 218 skipped
+2026-06-13 15:36:58,593 [ERROR] finance_app.gui: Ошибка backtesting: Недостаточно данных для backtesting
+Traceback (most recent call last):
+  File "D:\pycharm\project\nauchka\finance_app\gui.py", line 580, in run
+    result = backtest_series(pd.to_numeric(df[column], errors="coerce"), ALGORITHMS, test_size)
+  File "D:\pycharm\project\nauchka\finance_app\forecasting.py", line 69, in backtest_series
+    raise ValueError("Недостаточно данных для backtesting")
+ValueError: Недостаточно данных для backtesting
+2026-06-13 15:37:11,850 [ERROR] finance_app.gui: Ошибка backtesting: Недостаточно данных для backtesting
+Traceback (most recent call last):
+  File "D:\pycharm\project\nauchka\finance_app\gui.py", line 580, in run
+    result = backtest_series(pd.to_numeric(df[column], errors="coerce"), ALGORITHMS, test_size)
+  File "D:\pycharm\project\nauchka\finance_app\forecasting.py", line 69, in backtest_series
+    raise ValueError("Недостаточно данных для backtesting")
+ValueError: Недостаточно данных для backtesting
+2026-06-13 15:37:38,108 [ERROR] finance_app.gui: Ошибка: Нужно минимум 2 точки отчетности
+Traceback (most recent call last):
+  File "D:\pycharm\project\nauchka\finance_app\gui.py", line 619, in run
+    pred = finance_forecast(df, periods)
+  File "D:\pycharm\project\nauchka\finance_app\forecasting.py", line 89, in finance_forecast
+    raise ValueError("Нужно минимум 2 точки отчетности")
+ValueError: Нужно минимум 2 точки отчетности
+2026-06-13 16:26:37,707 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\amazon_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:37,747 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\apple_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:37,788 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\google_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:37,830 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\meta_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:37,871 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\microsoft_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:37,913 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\nvidia_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:37,956 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\tesla_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:38,147 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\amazon_financial_data.csv: 622 rows, 168 skipped
+2026-06-13 16:26:38,338 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\apple_financial_data.csv: 609 rows, 196 skipped
+2026-06-13 16:26:38,554 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\google_financial_data.csv: 678 rows, 207 skipped
+2026-06-13 16:26:38,766 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\meta_financial_data.csv: 664 rows, 211 skipped
+2026-06-13 16:26:38,983 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\microsoft_financial_data.csv: 731 rows, 189 skipped
+2026-06-13 16:26:39,201 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\nvidia_financial_data.csv: 694 rows, 201 skipped
+2026-06-13 16:26:39,423 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\tesla_financial_data.csv: 722 rows, 218 skipped
+2026-06-13 16:26:57,870 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\amazon_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:57,897 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\apple_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:57,939 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\google_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:57,971 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\meta_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:57,999 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\microsoft_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:58,026 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\nvidia_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:58,054 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\tesla_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 16:26:58,244 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\amazon_financial_data.csv: 622 rows, 168 skipped
+2026-06-13 16:26:58,439 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\apple_financial_data.csv: 609 rows, 196 skipped
+2026-06-13 16:26:58,651 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\google_financial_data.csv: 678 rows, 207 skipped
+2026-06-13 16:26:58,902 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\meta_financial_data.csv: 664 rows, 211 skipped
+2026-06-13 16:26:59,282 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\microsoft_financial_data.csv: 731 rows, 189 skipped
+2026-06-13 16:26:59,549 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\nvidia_financial_data.csv: 694 rows, 201 skipped
+2026-06-13 16:26:59,858 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\tesla_financial_data.csv: 722 rows, 218 skipped
+2026-06-13 16:31:34,514 [ERROR] finance_app.gui: Ошибка: Нужно минимум 2 точки отчетности
+Traceback (most recent call last):
+  File "D:\pycharm\project\nauchka\finance_app\gui.py", line 619, in run
+    pred = finance_forecast(df, periods)
+  File "D:\pycharm\project\nauchka\finance_app\forecasting.py", line 89, in finance_forecast
+    raise ValueError("Нужно минимум 2 точки отчетности")
+ValueError: Нужно минимум 2 точки отчетности
+2026-06-13 16:31:46,038 [ERROR] finance_app.gui: Ошибка: Нужно минимум 2 точки отчетности
+Traceback (most recent call last):
+  File "D:\pycharm\project\nauchka\finance_app\gui.py", line 619, in run
+    pred = finance_forecast(df, periods)
+  File "D:\pycharm\project\nauchka\finance_app\forecasting.py", line 89, in finance_forecast
+    raise ValueError("Нужно минимум 2 точки отчетности")
+ValueError: Нужно минимум 2 точки отчетности
+2026-06-13 18:39:49,004 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\adobe_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,048 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\amazon_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 18:39:49,104 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\amd_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,148 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\apple_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 18:39:49,210 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\bank_of_america_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,274 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\bitcoin_stock_data.csv: 4288 rows, 2 skipped
+2026-06-13 18:39:49,342 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\boeing_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,404 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\broadcom_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,468 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\chevron_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,531 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\coca_cola_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,600 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\disney_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,668 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\dow_jones_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,738 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\eli_lilly_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,797 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\ethereum_stock_data.csv: 3139 rows, 2 skipped
+2026-06-13 18:39:49,861 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\exxon_mobil_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:49,933 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\google_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,007 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\ibm_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,101 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\intel_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,176 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\jpmorgan_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,255 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\mastercard_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,332 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\mcdonalds_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,401 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\meta_stock_data.csv: 3537 rows, 2 skipped
+2026-06-13 18:39:50,464 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\microsoft_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 18:39:50,537 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\nasdaq100_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,621 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\netflix_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,681 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\nvidia_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 18:39:50,757 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\oracle_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,824 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\paypal_stock_data.csv: 2752 rows, 2 skipped
+2026-06-13 18:39:50,906 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\pepsico_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:50,994 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\qualcomm_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,079 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\russell2000_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,180 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\salesforce_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,255 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\shopify_stock_data.csv: 2783 rows, 2 skipped
+2026-06-13 18:39:51,338 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\sp500_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,406 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\tesla_stock_data.csv: 2516 rows, 1 skipped
+2026-06-13 18:39:51,432 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\uber_stock_data.csv: 1783 rows, 2 skipped
+2026-06-13 18:39:51,526 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\unitedhealth_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,614 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\visa_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,707 [INFO] finance_app.importer: Imported stock CSV D:/pycharm/project/nauchka/finance_bigdata_project\stocks\walmart_stock_data.csv: 4136 rows, 2 skipped
+2026-06-13 18:39:51,937 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\adobe_financial_data.csv: 731 rows, 209 skipped
+2026-06-13 18:39:52,156 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\amazon_financial_data.csv: 622 rows, 168 skipped
+2026-06-13 18:39:52,395 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\amd_financial_data.csv: 725 rows, 230 skipped
+2026-06-13 18:39:52,592 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\apple_financial_data.csv: 609 rows, 196 skipped
+2026-06-13 18:39:52,761 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\bank_of_america_financial_data.csv: 493 rows, 152 skipped
+2026-06-13 18:39:53,003 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\boeing_financial_data.csv: 715 rows, 245 skipped
+2026-06-13 18:39:53,223 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\broadcom_financial_data.csv: 714 rows, 206 skipped
+2026-06-13 18:39:53,435 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\chevron_financial_data.csv: 684 rows, 181 skipped
+2026-06-13 18:39:53,668 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\coca_cola_financial_data.csv: 759 rows, 216 skipped
+2026-06-13 18:39:53,898 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\disney_financial_data.csv: 738 rows, 222 skipped
+2026-06-13 18:39:54,133 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\eli_lilly_financial_data.csv: 738 rows, 222 skipped
+2026-06-13 18:39:54,343 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\exxon_mobil_financial_data.csv: 661 rows, 169 skipped
+2026-06-13 18:39:54,589 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\google_financial_data.csv: 678 rows, 207 skipped
+2026-06-13 18:39:54,845 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\ibm_financial_data.csv: 814 rows, 241 skipped
+2026-06-13 18:39:55,085 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\intel_financial_data.csv: 712 rows, 213 skipped
+2026-06-13 18:39:55,269 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\jpmorgan_financial_data.csv: 546 rows, 144 skipped
+2026-06-13 18:39:55,499 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\mastercard_financial_data.csv: 684 rows, 186 skipped
+2026-06-13 18:39:55,710 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\mcdonalds_financial_data.csv: 675 rows, 190 skipped
+2026-06-13 18:39:55,939 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\meta_financial_data.csv: 664 rows, 211 skipped
+2026-06-13 18:39:56,164 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\microsoft_financial_data.csv: 731 rows, 189 skipped
+2026-06-13 18:39:56,391 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\netflix_financial_data.csv: 609 rows, 161 skipped
+2026-06-13 18:39:56,611 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\nvidia_financial_data.csv: 694 rows, 201 skipped
+2026-06-13 18:39:56,792 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\oracle_financial_data.csv: 691 rows, 17 skipped
+2026-06-13 18:39:57,010 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\paypal_financial_data.csv: 685 rows, 215 skipped
+2026-06-13 18:39:57,233 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\pepsico_financial_data.csv: 730 rows, 195 skipped
+2026-06-13 18:39:57,450 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\qualcomm_financial_data.csv: 713 rows, 192 skipped
+2026-06-13 18:39:57,652 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\salesforce_financial_data.csv: 651 rows, 184 skipped
+2026-06-13 18:39:57,882 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\shopify_financial_data.csv: 688 rows, 262 skipped
+2026-06-13 18:39:58,106 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\tesla_financial_data.csv: 722 rows, 218 skipped
+2026-06-13 18:39:58,345 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\uber_financial_data.csv: 777 rows, 223 skipped
+2026-06-13 18:39:58,537 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\unitedhealth_financial_data.csv: 631 rows, 169 skipped
+2026-06-13 18:39:58,744 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\visa_financial_data.csv: 667 rows, 178 skipped
+2026-06-13 18:39:58,942 [INFO] finance_app.importer: Imported finance CSV D:/pycharm/project/nauchka/finance_bigdata_project\financial_statements\walmart_financial_data.csv: 642 rows, 193 skipped
